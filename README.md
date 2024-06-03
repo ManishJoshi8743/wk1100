@@ -24,7 +24,9 @@ The above code does this...
 |Names|Designation|
 |------|-----------|
 |DevA  | Developer |
-|Devv  |   CTO     |
+|Devv |   CTO |
 
 ![Image](https://www.telegraph.co.uk/content/dam/food-and-drink/2016/02/24/trolley-xlarge_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf2tT0gK_6EfZT336f62EI5U.jpg)
+
+
 
